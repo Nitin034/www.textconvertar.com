@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/www.textconvertar.com/static/css/main.d4b9b912.css",
+    "main.js": "/www.textconvertar.com/static/js/main.324c828b.js",
+    "static/js/787.97787572.chunk.js": "/www.textconvertar.com/static/js/787.97787572.chunk.js",
+    "static/media/Link.png": "/www.textconvertar.com/static/media/Link.3c73008510bc59a36e80.png",
+    "static/media/Insta.png": "/www.textconvertar.com/static/media/Insta.286b43f6a1a2529b988e.png",
+    "static/media/Email.png": "/www.textconvertar.com/static/media/Email.70d48c594a827ac55f22.png",
+    "static/media/GitHub.jpg.png": "/www.textconvertar.com/static/media/GitHub.jpg.7d2355f44f178e8edbf8.png",
+    "index.html": "/www.textconvertar.com/index.html",
+    "main.d4b9b912.css.map": "/www.textconvertar.com/static/css/main.d4b9b912.css.map",
+    "main.324c828b.js.map": "/www.textconvertar.com/static/js/main.324c828b.js.map",
+    "787.97787572.chunk.js.map": "/www.textconvertar.com/static/js/787.97787572.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4b9b912.css",
+    "static/js/main.324c828b.js"
+  ]
+}
